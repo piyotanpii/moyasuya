@@ -1,0 +1,8 @@
+footer {
+    height: 100px;
+    background-color: #FFE3AC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Nico Moji";
+}

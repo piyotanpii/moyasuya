@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*-------------------------------------------
+header
+-------------------------------------------*/
+
+img {
+    max-width: 100%;
+}
+
+header {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFE3AC;
+    font-family: "Nico Moji";
+}
+
+header ul {
+    display: flex;
+    padding: 10px 0;
+}
+
+header li {
+    margin-right: 30px;
+}
+
+header li a {
+    color: #24292e;
+    font-size: large;
+}
+
+li {
+    list-style: none;
+}
+
+.site-title {
+    width: 180px;
+    line-height: 1px;
+    padding-left: 50px;
+}
+
+
+/*-------------------------------------------
+main
+-------------------------------------------*/
+
+main {
+    font-family: "Nico Moji";
+}
+
+.section-title {
+    display: inline-block;
+    font-size: 2rem;
+    text-align: center;
+    border-bottom: solid 1px #383e45;
+    padding: 40px 0px 40px 0px;
+}
+
+.center {
+    text-align: center;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    padding: 110px 0px 40px 0px;
+}
+
+.text {
+    padding-top: 50px;
+}
+
+button {
+    opacity: 0.75;
+}

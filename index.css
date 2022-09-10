@@ -1,0 +1,53 @@
+img {
+    max-width: 100%;
+}
+
+header {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFE3AC;
+    font-family: "Nico Moji";
+}
+
+.site-title {
+    width: 180px;
+    line-height: 1px;
+    padding-left: 50px;
+}
+
+main {
+    font-family: "Nico Moji";
+}
+
+.parent {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 8rem;
+}
+
+.child {
+    width: 421px;
+    background: #93dafc;
+    border-radius: 30px;
+}
+
+.img {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    margin-top: 240px;
+}
+
+a {
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.child a {
+    color: #24292e;
+}

@@ -1,0 +1,24 @@
+main {
+    padding-top: 20px;
+    height: 442px;
+}
+
+#network {
+    height: 422px;
+}
+
+input {
+    box-sizing: border-box;
+    text-align: center;
+    background: #E4F3FF;
+    border: 1px solid #008DFF;
+    border-radius: 10px;
+}
+
+button {
+    box-sizing: border-box;
+    text-align: center;
+    background: #E4F3FF;
+    border: 1px solid #008DFF;
+    border-radius: 30px;
+}
