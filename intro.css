@@ -79,3 +79,14 @@ main {
 button {
     opacity: 0.75;
 }
+
+.intro_zou {
+    margin-top: 150px;
+    width: 300px;
+    height: 300px;
+}
+
+span {
+    color: dodgerblue;
+    font-family: 'Yusei Magic', sans-serif;
+}

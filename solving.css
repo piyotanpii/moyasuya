@@ -1,0 +1,118 @@
+/*-------------------------------------------
+header
+-------------------------------------------*/
+
+header {
+    font-family: "Nico Moji";
+}
+
+
+/*-------------------------------------------
+main
+-------------------------------------------*/
+
+main {
+    font-family: "Nico Moji";
+}
+
+h1 {
+    padding: 40px 0px 10px 50px;
+}
+
+.padding-top {
+    padding-top: 140px;
+}
+
+span {
+    color: dodgerblue;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+textarea {
+    box-sizing: border-box;
+    text-align: center;
+    width: 550px;
+    height: 200px;
+    background: #E4F3FF;
+    border: 1px solid #008DFF;
+    border-radius: 30px;
+    margin-bottom: 150px;
+}
+
+.kaiketuzou {
+    width: 200px;
+    height: 200px;
+}
+
+.hantaizou {
+    width: 180px;
+    height: 180px;
+    transform: scale(-1, 1);
+}
+
+.mitukeruzou {
+    width: 180px;
+    height: 180px;
+}
+
+.suyazou {
+    margin-top: 15px;
+    width: 180px;
+    height: 180px;
+    transform: scale(1, -1);
+}
+
+
+/*-------------------------------------------
+footer
+-------------------------------------------*/
+
+footer {
+    margin-top: 20px;
+    height: 115px;
+    background-color: #FFE3AC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Nico Moji";
+}
+
+footer a {
+    color: #24292e;
+    font-size: 32px;
+}
+
+
+/*-------------------------------------------
+network
+-------------------------------------------*/
+
+#network {
+    width: 900px;
+    height: 500px;
+}
+
+input {
+    box-sizing: border-box;
+    text-align: center;
+    background: #E4F3FF;
+    border: 1px solid #008DFF;
+    border-radius: 10px;
+}
+
+button {
+    box-sizing: border-box;
+    text-align: center;
+    background: #E4F3FF;
+    border: 1px solid #008DFF;
+    border-radius: 30px;
+}
+
+.imgbox img {
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    display: block;
+    position: absolute;
+    right: 0;
+}

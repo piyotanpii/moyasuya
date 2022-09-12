@@ -1,4 +1,3 @@
-console.log("こんにちは");
 let isNodeClicked, clickedNodeId, clickedInfo;
 let newIdNum = 6;
 

@@ -1,6 +1,3 @@
-let isNodeClicked, clickedNodeId, clickedInfo;
-let newIdNum = 6;
-
 // ノードを持つ配列の作成　根
 var nodes = new vis.DataSet([
     { id: 1, label: "例：一回あたりの量が多い" },
